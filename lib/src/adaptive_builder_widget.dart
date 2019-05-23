@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 /// A function that creates an object of type [T].
 typedef ValueBuilder<T> = T Function(BuildContext context);
