@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:provider/src/delegate_widget.dart';
 
 /// A function that returns true when the update from [previous] to [current]

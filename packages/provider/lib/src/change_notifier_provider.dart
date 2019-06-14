@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/widgets.dart';
 
 import 'delegate_widget.dart';
 import 'listenable_provider.dart';

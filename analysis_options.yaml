@@ -6,7 +6,6 @@ analyzer:
     implicit-casts: false
     implicit-dynamic: false
   errors:
-    todo: error
     include_file_not_found: ignore
 linter:
   rules:
